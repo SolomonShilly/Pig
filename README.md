@@ -1,7 +1,7 @@
 # Pig
 ## Instructions to run
 - Install the random library by using the command 'pip install random'
-- Run on terminal using the command python Pig.py
+- Run on terminal using the command 'python Pig.py'
 
 ## Instructions to play
 - Two players will face off in a race to 30 points
